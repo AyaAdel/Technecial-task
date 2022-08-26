@@ -1,0 +1,14 @@
+.clients-dropdown {
+  width: 50%;
+  margin: 60px auto;
+}
+
+.clients-dropdown .ant-select {
+  margin: 10px 0;
+  display: block;
+  width: 100%;
+}
+
+.clients-dropdown h1 {
+  text-align: center;
+}
