@@ -1,0 +1,14 @@
+.add-new-building {
+  border: 1px solid #d9d9d9;
+  border-radius: 2px;
+  flex-grow: 1;
+  width: 100%;
+}
+
+.add-new-building .add-edit-form {
+  padding: 12px 24px;
+}
+
+.cancel-btn {
+  margin-right: 10px;
+}

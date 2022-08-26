@@ -1,0 +1,29 @@
+.clients-list {
+  flex-basis: 30%;
+  overflow: auto;
+}
+
+.clients-list .ant-list {
+  margin-bottom: 20px;
+}
+
+.clients-list .selected {
+  background-color: #ededed;
+}
+
+.clients-list .ant-spin-nested-loading {
+  height: 400px;
+  overflow: auto;
+}
+
+.clients-list .ant-list-header {
+  background: #1890ff;
+  color: #fff;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.clients-list .icon {
+  cursor: pointer;
+  color: #1890ff;
+}
