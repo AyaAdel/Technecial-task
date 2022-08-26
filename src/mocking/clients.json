@@ -1,0 +1,74 @@
+[
+  {
+    "id": 2,
+    "name": "Adam",
+    "buildings": [
+      {
+        "id": "CYP",
+        "name": "building 1",
+        "country": "Cyprus",
+        "position": [35.01635507142857, 33.280764714285716]
+      },
+      {
+        "id": "CZE",
+        "name": "building 2",
+        "country": "Czech Republic",
+        "position": [49.73959991176471, 15.872473411764709]
+      },
+      {
+        "id": "DEU",
+        "name": "building 3",
+        "country": "Germany",
+        "position": [50.996776473684214, 10.630975842105267]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Jack",
+    "buildings": [
+      {
+        "id": "AFG",
+        "name": "building 1",
+        "country": "Afghanistan",
+        "position": [34.79120620588236, 67.78638470588234]
+      },
+      {
+        "id": "AGO",
+        "name": "building 2",
+        "country": "Angola",
+        "position": [-10.361866945205483, 16.907859164383563]
+      },
+      {
+        "id": "ALB",
+        "name": "building 3",
+        "country": "Albania",
+        "position": [41.24549533333333, 20.086699571428568]
+      },
+      {
+        "id": "ARE",
+        "name": "building 4",
+        "country": "United Arab Emirates",
+        "position": [24.192992571428572, 54.370252857142866]
+      },
+      {
+        "id": "ARG",
+        "name": "building 5",
+        "country": "Argentina",
+        "position": [-38.53319952100841, -65.31919331932774]
+      },
+      {
+        "id": "CYP",
+        "name": "building 1",
+        "country": "Cyprus",
+        "position": [35.01635507142857, 33.280764714285716]
+      },
+      {
+        "id": "CZE",
+        "name": "building 2",
+        "country": "Czech Republic",
+        "position": [49.73959991176471, 15.872473411764709]
+      }
+    ]
+  }
+]
